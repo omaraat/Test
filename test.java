@@ -1,1 +1,2 @@
-jewiwjeij weijwiejwi i iweoiwoeiwoeiwoei owieow is
+package me.omar;
+
